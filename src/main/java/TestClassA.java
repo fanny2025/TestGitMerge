@@ -10,4 +10,8 @@ public class TestClassA {
     public void method3() {
         System.out.println("method - 3");
     }
+
+    public void method4() {
+        System.out.println("main 4th method");
+    }
 }
