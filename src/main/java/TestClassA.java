@@ -6,4 +6,8 @@ public class TestClassA {
 
     public void method2() {
     }
+
+    public void method3() {
+        System.out.println("method - 3");
+    }
 }
